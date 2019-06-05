@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+.headsec{
+  margin-top:10px;
+  margin-right:350px;
+  margin-left:250px;
+  border-style: ridge;
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:150px;
+}
+
+.linkcolor{
+  padding-right: 50px;
+  margin-left:50px;
+}
+
+.tablesize{
+  margin-left:200px;
+  margin-right:300px;
+  margin-top:100px;
+  border:1px;
+}
+
+.otptablesize{
+  margin-left:400px;
+  margin-right:500px;
+  margin-top:100px;
+  border:1px;
+}
+
+.main{
+  background-color: #ff6200;
+}
+
+.titlespace{
+  padding-left:400px;
+}
+
+section{
+ float:left;
+ width:15%;
+ height:500px;
+ margin-top:0px;
+ background-color:#010154;
+}
+
+.middle{
+ float:left;
+ position:relative;
+ width:80%;
+ height:1000px;
+ background-color:white;
+}
+
+.slide{
+  background-color:#7e534a;
+  color:white;
+  padding-bottom:20px;
+  padding-top:10px;
+}
